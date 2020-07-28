@@ -1,14 +1,15 @@
 ---
-
 title: iOS网络请求类的简单封装
 date: 2016-12-05 10:51:51
+
+categories:
+- 编程
+
 tags:
-categories: 混口饭吃
+- iOS
+- OC
 
 ---
-
-
-##iOS网络请求类的简单封装
 
 前言：
 

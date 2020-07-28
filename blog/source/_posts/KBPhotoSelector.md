@@ -4,9 +4,11 @@ title: KBPhotoSelector，一款iOS照片集选择、浏览、删除开源库
 
 date: 2017-05-20 15:10:10
 
-tags: iOS
+categories:
+- 编程
 
-categories: 混口饭吃
+tags:
+- iOS
 
 ---
 

@@ -1,9 +1,14 @@
 ---
 
-title: Fastlane自动上传beta包遇到的一些坑
-date: 2018-07-08
+title:  Fastlane自动上传beta包遇到的一些坑
+date:  2018-07-08
+
+categories:
+- 编程
+
 tags:
-categories: iOS
+- iOS
+- Xcode
 
 ---
 
