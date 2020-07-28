@@ -71,5 +71,5 @@ theme: maupassant-hexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/Bofearless/Bofearless.github.io.git
+  repository: https://github.com/dahhd/Bofearless.github.io.git
   branch: master
