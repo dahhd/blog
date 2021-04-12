@@ -1,2 +1,0 @@
-# blog
-my is blog
