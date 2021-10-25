@@ -106,6 +106,17 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: maupassant
 
+plugins:
+    hexo-generator-feed
+#Feed Atom
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
+    content:
+    content_limit:
+    content_limit_delim: ' '
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
