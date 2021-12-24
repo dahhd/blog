@@ -7,7 +7,7 @@ date: 2017-01-01
 
 
 ### **主要修炼技能**
-* iOS, Flutter, Python
+* iOS, Web,  Flutter, Python
 ***
 
 
